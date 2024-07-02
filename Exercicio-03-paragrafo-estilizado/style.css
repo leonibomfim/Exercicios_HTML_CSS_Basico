@@ -1,0 +1,33 @@
+
+/* Resolução do DevQuest */
+
+.texto {
+    margin: 40px;
+    padding: 20px;
+}
+
+.paragrafo-padrao {
+    background-color: #F5F5F5;
+}
+
+.paragrafo-destacado {
+    background-color: #F0CCE2;
+}
+
+/* Minha Resolução
+*{
+    margin: 0;
+}
+
+p {
+    margin: 40px;
+    padding: 20px;
+}
+
+.padrao {
+    background-color: #F5F5F5;
+}
+
+.destacado {
+    background-color: #F0CCE2;
+} */
